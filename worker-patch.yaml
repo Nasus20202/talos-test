@@ -1,0 +1,7 @@
+machine:
+  network:
+    interfaces:
+      - interface: enp1s0
+        dhcp: true
+  install:
+    disk: /dev/vda
